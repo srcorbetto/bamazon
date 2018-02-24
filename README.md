@@ -4,7 +4,7 @@ Bamazon is a shopping and inventory CLI app that allows a user to display and up
 
 ### Usage
 * ``$ git clone``  bamazon repo
-* Run ``npm install`` for required dependencies ([inquirer!](https://www.npmjs.com/package/inquirer) and [mysql!](https://www.npmjs.com/package/mysql))
+* Run ``npm install`` for required dependencies ([inquirer](https://www.npmjs.com/package/inquirer) and [mysql](https://www.npmjs.com/package/mysql))
 * Initialize the included ``schema.sql`` file to build out the starting MySQL database that the app connects to
 * Point the terminal to the bamazon root folder and run the application using ``$ node bamazonCusomer.js``
 
