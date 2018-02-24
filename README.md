@@ -11,9 +11,9 @@ Bamazon is a shopping and inventory CLI app that allows a user to display and up
 ### Example:
 ![Bamazon Example](assets/img/bamazon-example.gif)
 
-#### Current views commands:
+#### Current view commands:
 ``$ node bamazonCusomer.js``
 
-Coming soon:<br/>
+#### Coming soon:<br/>
 ``$ node bamazonManager.js``<br/>
 ``$ node bamazonSupervisor.js``
